@@ -57,13 +57,13 @@ My goal is to develop software products that solve real-world problems and enhan
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Priyakumariyt05"><img src="https://github-readme-stats.vercel.app/api?username=PriyakumariYt&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="PriyakumariYt's GitHub stats" /></a>
+<a href="https://github.com/Priyakumariyt05"><img src="https://github-readme-stats.vercel.app/api?username=Priyakumariyt05&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="Priyakumariyt05's GitHub stats" /></a>
 
-<a href="https://github.com/Priyakumariyt05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyakumariYt&stroke=facc15&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="https://github.com/Priyakumariyt05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyakumariyt05&stroke=facc15&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="https://github.com/Priyakumariyt05"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PriyakumariYt&bg_color=0f172a&color=facc15&line=ec4899&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Priyakumariyt05"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyakumariyt05&bg_color=0f172a&color=facc15&line=ec4899&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Priyakumariyt05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyakumariYt&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Priyakumariyt05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyakumariyt05&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyakumariyt05&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyakumariyt05&theme=solarized_dark)
